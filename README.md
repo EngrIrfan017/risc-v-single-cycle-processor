@@ -57,7 +57,7 @@ Functionality verified via testbench-driven simulation, with waveform analysis i
 
 ## 🔮 Future Work
 
-- Extend to a **pipelined** version with hazard detection and forwarding (see: [pipelined RISC-V processor repo](#))
+- Extend to a **pipelined** version with hazard detection and forwarding (see: [pipelined RISC-V processor repo](https://github.com/EngrIrfan017/5-stage-risc-v-pipelined-processor.git))
 - Add support for M-extension (multiply/divide)
 
 ---
